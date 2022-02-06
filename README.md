@@ -1,6 +1,6 @@
 # sosyallesiyorum
 
-A new Flutter project.
+An activity application written for children with flutter used for a scientific study.
 
 ## Getting Started
 
