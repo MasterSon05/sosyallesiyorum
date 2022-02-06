@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "519655270216",
+    "firebase_url": "https://sosyallesenler.firebaseio.com",
+    "project_id": "sosyallesenler",
+    "storage_bucket": "sosyallesenler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519655270216:android:1dd240fd0d9c336a11757d",
+        "android_client_info": {
+          "package_name": "com.example.sosyallesiyorum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519655270216-0afokpl8q8f5prgho6ha3glld8cksbda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFQbHEiYCOh4wxaxQdOYyXMyhhe_ljK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519655270216-0afokpl8q8f5prgho6ha3glld8cksbda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519655270216:android:20c0f652afd0bf1c11757d",
+        "android_client_info": {
+          "package_name": "com.sosyallesiyorum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519655270216-0afokpl8q8f5prgho6ha3glld8cksbda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbFQbHEiYCOh4wxaxQdOYyXMyhhe_ljK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519655270216-0afokpl8q8f5prgho6ha3glld8cksbda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

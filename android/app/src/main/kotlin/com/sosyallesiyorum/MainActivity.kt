@@ -1,0 +1,6 @@
+package com.sosyallesiyorum
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
